@@ -1,7 +1,7 @@
 <?php
 	$name="Suroj";
 	$age=25;
-	if (strtolower($name)==="suroj")
+	if (strtolower($name)==="suroj")// triple equal also compares data type
 	{
 		if($age>=21)
 		{
@@ -42,5 +42,7 @@
 <a href="embedphp.php">Embedding PHP inside HTML</a><br />
 <a href="errorreporting.php">Error Reporting</a><br />
 <a href="ifstatement.php">If_if else Statement</a><br />
+<a href="die_and_exit.php">Die and Exit Functions</a><br />
+<a href="test.php">Testing Page</a><br />
 </body>
 </html>
