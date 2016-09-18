@@ -1,5 +1,5 @@
 <?php
 	include 'header_inc.php';
-	$var = "string";
-	echo $var;
+	
+	echo $var1;
 ?>
